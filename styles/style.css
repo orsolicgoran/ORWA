@@ -1,0 +1,14 @@
+body {
+    background-color: hsla(230, 30%, 85%, 1);
+    margin: 0;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 3em;
+    color: white;
+    width: 100%;
+    background-color: black;
+    margin: .5em 0;
+    text-align: center;
+}
